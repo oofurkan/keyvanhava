@@ -1,0 +1,7 @@
+C:\Users\Ömer Furkan\source\repos\AirportDataConvertConsoleApp\bin\Debug\AirportDataConvertConsoleApp.exe.config
+C:\Users\Ömer Furkan\source\repos\AirportDataConvertConsoleApp\bin\Debug\AirportDataConvertConsoleApp.exe
+C:\Users\Ömer Furkan\source\repos\AirportDataConvertConsoleApp\bin\Debug\AirportDataConvertConsoleApp.pdb
+C:\Users\Ömer Furkan\source\repos\AirportDataConvertConsoleApp\obj\Debug\AirportDataConvertConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Ömer Furkan\source\repos\AirportDataConvertConsoleApp\obj\Debug\AirportDataConvertConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Furkan\source\repos\AirportDataConvertConsoleApp\obj\Debug\AirportDataConvertConsoleApp.exe
+C:\Users\Ömer Furkan\source\repos\AirportDataConvertConsoleApp\obj\Debug\AirportDataConvertConsoleApp.pdb

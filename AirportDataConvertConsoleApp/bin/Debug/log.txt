@@ -1,0 +1,190 @@
+
+30.04.2024 17:31:54 - Uygulama başlatıldı.
+30.04.2024 17:31:54 - Veritabanına bağlanıldı.
+30.04.2024 17:31:54 - Version 22 tablosundan veriler okundu.
+30.04.2024 17:31:54 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 17:31:54 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 17:31:54 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 17:31:54 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 17:32:20 - Uygulama başlatıldı.
+30.04.2024 17:32:20 - Veritabanına bağlanıldı.
+30.04.2024 17:32:20 - Version 22 tablosundan veriler okundu.
+30.04.2024 17:32:20 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 17:32:20 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 17:32:20 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 17:32:20 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 17:34:44 - Uygulama başlatıldı.
+30.04.2024 17:34:44 - Veritabanına bağlanıldı.
+30.04.2024 17:34:44 - Version 22 tablosundan veriler okundu.
+30.04.2024 17:34:44 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 17:34:44 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 17:34:44 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 17:34:44 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 17:34:48 - Uygulama başlatıldı.
+30.04.2024 17:34:48 - Veritabanına bağlanıldı.
+30.04.2024 17:34:48 - Version 22 tablosundan veriler okundu.
+30.04.2024 17:34:48 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 17:34:48 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 17:34:48 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 17:34:48 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 17:53:37 - Uygulama başlatıldı.
+30.04.2024 17:53:37 - Veritabanına bağlanıldı.
+30.04.2024 17:53:37 - Version 22 tablosundan veriler okundu.
+30.04.2024 17:53:37 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 17:53:37 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 17:53:37 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 17:53:37 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 17:53:42 - Uygulama başlatıldı.
+30.04.2024 17:53:42 - Veritabanına bağlanıldı.
+30.04.2024 17:53:42 - Version 22 tablosundan veriler okundu.
+30.04.2024 17:53:42 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 17:53:42 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 17:53:42 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 17:53:42 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 17:57:39 - Uygulama başlatıldı.
+30.04.2024 17:57:39 - Veritabanına bağlanıldı.
+30.04.2024 17:57:39 - Version 22 tablosundan veriler okundu.
+30.04.2024 17:57:39 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 17:57:39 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 17:57:39 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 17:57:39 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:04:37 - Uygulama başlatıldı.
+30.04.2024 18:04:37 - Veritabanına bağlanıldı.
+30.04.2024 18:04:37 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:04:37 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:04:37 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:04:37 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:04:37 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:04:48 - Uygulama başlatıldı.
+30.04.2024 18:04:48 - Veritabanına bağlanıldı.
+30.04.2024 18:04:48 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:04:48 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:04:48 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:04:48 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:04:48 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:10:04 - Uygulama başlatıldı.
+30.04.2024 18:10:05 - Veritabanına bağlanıldı.
+30.04.2024 18:10:05 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:10:05 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:10:05 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:10:05 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:10:05 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:10:09 - Uygulama başlatıldı.
+30.04.2024 18:10:09 - Veritabanına bağlanıldı.
+30.04.2024 18:10:09 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:10:09 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:10:09 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:10:09 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:10:09 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:08 - Uygulama başlatıldı.
+30.04.2024 18:18:08 - Veritabanına bağlanıldı.
+30.04.2024 18:18:08 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:18:08 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:08 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:08 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:08 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:14 - Uygulama başlatıldı.
+30.04.2024 18:18:14 - Veritabanına bağlanıldı.
+30.04.2024 18:18:14 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:18:14 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:14 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:14 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:14 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:19 - Uygulama başlatıldı.
+30.04.2024 18:18:19 - Veritabanına bağlanıldı.
+30.04.2024 18:18:19 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:18:19 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:19 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:19 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:18:19 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:36 - Uygulama başlatıldı.
+30.04.2024 18:20:36 - Veritabanına bağlanıldı.
+30.04.2024 18:20:36 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:20:36 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:36 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:36 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:36 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:40 - Uygulama başlatıldı.
+30.04.2024 18:20:40 - Veritabanına bağlanıldı.
+30.04.2024 18:20:40 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:20:40 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:40 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:40 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:40 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:45 - Uygulama başlatıldı.
+30.04.2024 18:20:45 - Veritabanına bağlanıldı.
+30.04.2024 18:20:45 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:20:45 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:45 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:45 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:20:45 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:22:37 - Uygulama başlatıldı.
+30.04.2024 18:22:37 - Veritabanına bağlanıldı.
+30.04.2024 18:22:37 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:22:37 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:22:37 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:22:37 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:22:37 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:22:41 - Uygulama başlatıldı.
+30.04.2024 18:22:41 - Veritabanına bağlanıldı.
+30.04.2024 18:22:41 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:22:41 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:22:41 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:22:41 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:22:41 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:23:17 - Uygulama başlatıldı.
+30.04.2024 18:23:17 - Veritabanına bağlanıldı.
+30.04.2024 18:23:17 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:23:17 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:23:17 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:23:17 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:23:17 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:26:02 - Uygulama başlatıldı.
+30.04.2024 18:26:02 - Veritabanına bağlanıldı.
+30.04.2024 18:26:02 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:26:02 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:26:02 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:26:02 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:26:02 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:26:31 - Uygulama başlatıldı.
+30.04.2024 18:26:31 - Veritabanına bağlanıldı.
+30.04.2024 18:26:31 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:26:31 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:26:31 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:26:31 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:26:31 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:27:14 - Uygulama başlatıldı.
+30.04.2024 18:27:14 - Veritabanına bağlanıldı.
+30.04.2024 18:27:14 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:27:14 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:27:14 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:27:14 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:27:14 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:30:31 - Uygulama başlatıldı.
+30.04.2024 18:30:31 - Veritabanına bağlanıldı.
+30.04.2024 18:30:31 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:30:31 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:30:31 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:30:31 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:30:31 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:31:21 - Uygulama başlatıldı.
+30.04.2024 18:31:21 - Veritabanına bağlanıldı.
+30.04.2024 18:31:21 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:31:23 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:31:40 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:31:45 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:31:46 - Kayıt 4: Version 19 tablosuna eklenemedi.
+30.04.2024 18:33:42 - Uygulama başlatıldı.
+30.04.2024 18:33:42 - Veritabanına bağlanıldı.
+30.04.2024 18:33:42 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:33:43 - Kayıt 1: Version 19 tablosuna eklendi.
+30.04.2024 18:33:49 - Kayıt 2: Version 19 tablosuna eklendi.
+30.04.2024 18:33:54 - Kayıt 3: Version 19 tablosuna eklendi.
+30.04.2024 18:33:59 - Kayıt 4: Version 19 tablosuna eklendi.
+30.04.2024 18:44:46 - Uygulama başlatıldı.
+30.04.2024 18:44:46 - Veritabanına bağlanıldı.
+30.04.2024 18:44:46 - Version 22 tablosundan veriler okundu.
+30.04.2024 18:44:46 - Kayıt 1: Version 19 tablosuna eklenemedi.
+30.04.2024 18:44:46 - Kayıt 2: Version 19 tablosuna eklenemedi.
+30.04.2024 18:44:46 - Kayıt 3: Version 19 tablosuna eklenemedi.
+30.04.2024 18:44:46 - Kayıt 4: Version 19 tablosuna eklenemedi.

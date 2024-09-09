@@ -1,0 +1,11 @@
+Veritabanı bağlantıları için bağlandı konfigürasyonları
+AirportDataConvertConsoleApp/App.config
+
+dosyası içindedir.
+
+script dosyasının içinde airports , runway_19, runway_22 tablolaları için oluşturma scrpitleri mevcuttur.
+
+runway_22 tablosu için insert querysi de barındırır. 
+Consol uygulaması bu tablodaki verileri işleyim  runway_19 tablosuna insert edecektir.
+
+
